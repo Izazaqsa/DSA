@@ -1,0 +1,1 @@
+ob.deletion('10')
